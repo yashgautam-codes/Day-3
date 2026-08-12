@@ -1,4 +1,4 @@
-Q4. Write a program to convert temperature from Celcius to Fharenheit.
+Q5. Write a program to convert temperature from Celcius to Fharenheit.
 
 #include <stdio.h>
 int main()
